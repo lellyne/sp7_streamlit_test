@@ -1,6 +1,6 @@
  
-import steamlit as st 
+import streamlit as st 
  
 st.header('Lanzar una moneda') 
  
-st.write('Esta aplicacion aun no es funcional. En construccion.') 
+st.write('Esta aplicacion aun no es funcional. En construcion.') 
